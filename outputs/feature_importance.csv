@@ -1,0 +1,28 @@
+Feature,Importance
+num__Absolute magnitude(Mv),0.4
+num__Radius(R/Ro),0.4
+num__Luminosity(L/Lo),0.2
+cat__Star color_Blue white,0.0
+cat__Star color_Blue-white,0.0
+cat__Star color_Orange,0.0
+cat__Star color_Orange-Red,0.0
+cat__Star color_Pale yellow orange,0.0
+cat__Star color_Blue,0.0
+cat__Star color_Blue ,0.0
+cat__Star color_Blue White,0.0
+cat__Star color_White-Yellow,0.0
+cat__Star color_White,0.0
+cat__Star color_Red,0.0
+cat__Star color_Whitish,0.0
+cat__Star color_yellowish,0.0
+cat__Star color_Yellowish White,0.0
+cat__Star color_white,0.0
+cat__Star color_yellow-white,0.0
+cat__Spectral Class_F,0.0
+cat__Spectral Class_B,0.0
+cat__Spectral Class_A,0.0
+cat__Spectral Class_G,0.0
+cat__Spectral Class_O,0.0
+cat__Spectral Class_M,0.0
+cat__Spectral Class_K,0.0
+num__Temperature (K),0.0
