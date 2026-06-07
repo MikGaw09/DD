@@ -1,0 +1,3 @@
+Model,Accuracy test,CV mean,CV std
+Decision Tree - bazowy,1.0,1.0,0.0
+Decision Tree - po strojeniu,1.0,0.9944444444444445,0.011111111111111117
